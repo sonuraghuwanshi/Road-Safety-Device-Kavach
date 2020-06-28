@@ -11,4 +11,7 @@ How this works:   (suppose this device is fitted in all the vechicles)
                   and switch the light into low beam and when that car's device detect the light of our car it switches the high beam into
                   the low beam.
                   As both car crossed each other the device stopped detecting the light and again changes the low beam to high beam.
-                  This device also helps the driver while overtaking on the single lane road
+                  This device also helps the driver while overtaking the heavy vehicle on the single lane road. This device detect wheather
+                  any vehicle is coming from opposite direction or not.
+                  If it found any vehicle is coming from another direction then it assist the driver of the car that is behind the heavy vehicle
+                  (Still facing issues in understanding the situtation?? Do watch this video)
