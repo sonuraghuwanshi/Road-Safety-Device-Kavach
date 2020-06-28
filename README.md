@@ -15,3 +15,4 @@ How this works:   (suppose this device is fitted in all the vechicles)
                   any vehicle is coming from opposite direction or not.
                   If it found any vehicle is coming from another direction then it assist the driver of the car that is behind the heavy vehicle
                   (Still facing issues in understanding the situtation?? Do watch this video)
+                   https://youtu.be/CdEtO0hmlQU
